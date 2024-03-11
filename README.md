@@ -13,7 +13,7 @@
 
    
      
-# [Website](https://www.polymerlabs.org/) | [Twitter](https://www.polymerlabs.org/) | [Discord](https://discord.gg/hvMQp4qcM6) | [Github](https://github.com/polymerdevs) | [Docs](https://docs.polymerlabs.org/)
+# [Website](https://www.polymerlabs.org/) | [Twitter](https://twitter.com/Polymer_Labs) | [Discord](https://discord.gg/hvMQp4qcM6) | [Github](https://github.com/polymerdevs) | [Docs](https://docs.polymerlabs.org/)
 
  </div>
 
